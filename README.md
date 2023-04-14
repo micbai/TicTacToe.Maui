@@ -9,5 +9,3 @@ For more details look here: [Microsoft](https://learn.microsoft.com/en-us/dotnet
 
 Feel free to use this as a starting point for your own projects.
 
-## Screenshot
-![Game](images/Screenshot_1681471111.png)
